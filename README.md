@@ -4,7 +4,7 @@
   <a href="https://github.com/bisnuray/GeminiAiWeb/stargazers"><img src="https://img.shields.io/github/stars/bisnuray/GeminiAiWeb?color=blue&style=flat" alt="GitHub Repo stars"></a>
   <a href="https://github.com/bisnuray/GeminiAiWeb/issues"><img src="https://img.shields.io/github/issues/bisnuray/GeminiAiWeb" alt="GitHub issues"></a>
   <a href="https://github.com/bisnuray/GeminiAiWeb/pulls"><img src="https://img.shields.io/github/issues-pr/bisnuray/GeminiAiWeb" alt="GitHub pull requests"></a>
-  <a href="https://github.com/bisnuray/GeminiAiWeb/graphs/contributors"><img src="https://img.shields.io/github/contributors/GeminiAiWeb/TempMail-Bot?style=flat" alt="GitHub contributors"></a>
+  <a href="https://github.com/bisnuray/GeminiAiWeb/graphs/contributors"><img src="https://img.shields.io/github/contributors/bisnuray/GeminiAiWeb?style=flat" alt="GitHub contributors"></a>
   <a href="https://github.com/bisnuray/GeminiAiWeb/network/members"><img src="https://img.shields.io/github/forks/bisnuray/GeminiAiWeb?style=flat" alt="GitHub forks"></a>
 </p>
 
