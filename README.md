@@ -18,7 +18,7 @@
 - You need to have a web browser to run the the script
 - An API key from Google's Generative AI service is required.
 </br>
-<h2 align="center">## Getting Started 🚀</h2>
+<h2 align="center">Getting Started 🚀</h2>
 
 To utilize Gemini AI, configure your environment with the necessary API key and service account credentials. Follow these steps to get started:
 
@@ -26,7 +26,7 @@ To utilize Gemini AI, configure your environment with the necessary API key and 
 
 2. Set the Google API key to the script
 
-   Replace `API_KEY` Replace with your gemini-api actual API key
+   Replace `API_KEY` Replace with your gemini-api actual API key in this line `const API_KEY = 'your_api_key';`
 
 ## Usage
 
